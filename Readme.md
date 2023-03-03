@@ -18,6 +18,12 @@ https://towardsdatascience.com/how-to-choose-the-right-activation-function-for-n
 ### It took humanity 80 years but we have finally invented computer security that can be bypassed with polite but firm insistence:    
 https://twitter.com/ESYudkowsky/status/1598663598490136576
 
+### AI Art:   
+https://octoml.ai/blog/from-gans-to-stable-diffusion-the-history-hype-and-promise-of-generative-ai/
+
+### AI Games:   
+https://medium.com/intuitionmachine/the-strange-loop-in-alphago-zeros-self-play-6e3274fcdd9f
+
 ### When you talk to ChatGPT, you're talking to RLHF (Reinforcement Learning with Human Feedback, ChatGPT), on top of Supervised Fine-Tuning (Text-Davinci-003), on top of the actual Unsupervised Transformer Model (GPT 3) which is the giant inscrutable mass of neural weights. You can visualize it like this:    
 https://twitter.com/anthrupad/status/1626113680340566018
 
