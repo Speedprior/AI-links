@@ -47,6 +47,9 @@ https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/do
 ### The deep learning breakthrough that specifically led to BERT and GPT is called the Transformer model. The paper that introduced it:
 https://arxiv.org/abs/1706.03762
 
+### image generation can look sometjing like this:    
+https://huggingface.co/blog/annotated-diffusion
+
 # What's next for AI?    
 
 ### See the cutting-edge (until at least next week) LLM with visual perception, from Microsoft, Kosmos-1:   
