@@ -10,8 +10,8 @@ https://www.lesswrong.com/posts/tnWRXkcDi5Tw9rzXw/the-design-space-of-minds-in-g
 https://en.wikipedia.org/wiki/Operator_(physics)#Operators_in_matrix_mechanics
 
 ### Also, matrix multiplications are linear, but Neural Nets can represent nonlinear functions. How does that work? The activation function for each neuron, which must be nonlinear:   
-https://medium.com/@cmukesh8688/activation-functions-sigmoid-tanh-relu-leaky-relu-softmax-50d3778dcea5
 https://towardsdatascience.com/how-to-choose-the-right-activation-function-for-neural-networks-3941ff0e6f9c
+https://www.pinecone.io/learn/train-sentence-transformers-softmax/
 
 # Deep Learning, Transformers, and Large Language Models   
 
