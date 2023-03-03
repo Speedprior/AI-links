@@ -50,6 +50,23 @@ https://arxiv.org/abs/1706.03762
 ### image generation can look sometjing like this:    
 https://huggingface.co/blog/annotated-diffusion
 
+# Interpretability
+
+### Local Interpretable Model-agnostic Explanations   
+https://homes.cs.washington.edu/~marcotcr/blog/lime/
+
+### SHAP (based on the Shapley Value, from economics)--how much did each feature contribute to the classification?:   
+https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/
+
+### ELK (Eliciting Latent Knowledge)--getting a model to truthfully tell you what it's thinking:    
+https://www.alignmentforum.org/posts/rxoBY9CMkqDsHt25t/eliciting-latent-knowledge-elk-distillation-summary
+
+### Neel Nanda (This guy does a lot of interpretability research):   
+https://twitter.com/neelnanda5
+
+### AI Safety, AI Interpretability, AI Architecture, Generative AI, tons of other stuff:    
+https://gwern.net
+
 # What's next for AI?    
 
 ### See the cutting-edge (until at least next week) LLM with visual perception, from Microsoft, Kosmos-1:   
